@@ -9,6 +9,7 @@ The NER tags follow the IOB convention:
 * **I**: **Inside** (part of a named entity);
 * **B**: **Begin** (starting a new entity);
 * **O**: **Outside** (not part of a named entity).
+  
 The **I** and **B** tags are followed by a specifier that identifies the type of the entity, such as:
 * **PER**: Person
 * **ORG**: Organization
