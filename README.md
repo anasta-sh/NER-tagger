@@ -17,5 +17,4 @@ The **I** and **B** tags are followed by a specifier that identifies the type of
 
 The project has a basic NER tag model and an improved version with **attention layer**, **part-of-speech tag embeddings as additional inputs**, **convolutional neural network (CNN) over character embeddings** (for better recognition of OOV words). After improvements the valid accuracy increased by 2.76% from 93.58% to 96.34%, demonstrating that the improved version is more efficient and accurate in recognizing named entities.
 
-
-
+This project was contributed to by FLEURY Manon and NOVOLODKAIA Evgeniia.
